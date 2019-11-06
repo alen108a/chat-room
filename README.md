@@ -17,7 +17,7 @@ github flow
 ```
 ## 4.測試方式 
 ```
-Mocha Puppetter／TDD
+Mocha，Puppetter，supertest／TDD
 ```
 ## 5.程式格式
 ```
