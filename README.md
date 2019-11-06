@@ -1,11 +1,37 @@
-# Chat-room
+# chatroom
 
-Member:504,516,521,508<br>
-Title:chat room<br>
-Cooperation:github flow<br>
-Test:mocha
+## 1.專案成員
+```
+梁子恩
+陳昱宏
+邱炫瑋
+```
+## 2.專案名稱與描述
+```
+聊天室
+https://github.com/Doge12132009/se108a
+```
+## 3.合作模式
+```
+github flow
+```
+## 4.測試方式 
+```
+mocha
+```
+## 5.程式格式
+```
+變數名稱：
+框架:express
+通訊方式:http
+```
+## 6.規劃與分工
+```
+規劃:
+  可以設定暱稱的聊天室
+  
 
-
-參考資料：<br>
-https://codertw.com/%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC/29769/ <br>
-        https://tutorials.webduino.io/zh-tw/docs/socket/useful/im-1.html
+目前分工:
+  網頁設計：梁子恩
+  伺服器：陳昱宏
+  介面溝通：邱炫瑋
